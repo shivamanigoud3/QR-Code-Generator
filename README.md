@@ -12,11 +12,11 @@ This QR Code Generator allows users to input any text or URL and instantly get a
 
 ## 🎯 Key Features
 
-- ✅ Generate QR codes for text, URLs, or any string
-- ✅ Real-time QR code display upon button click
-- ✅ Responsive and mobile-friendly design
-- ✅ Clean UI/UX using modern CSS styling
-- ✅ Error handling for empty input
+- ✅ Generate QR codes for text, URLs, or any string  
+- ✅ Real-time QR code display upon button click  
+- ✅ Responsive and mobile-friendly design  
+- ✅ Clean UI/UX using modern CSS styling  
+- ✅ Error handling for empty input  
 
 ---
 
@@ -33,3 +33,69 @@ This QR Code Generator allows users to input any text or URL and instantly get a
 
 ## 📂 Folder Structure
 
+```
+QR-Code-Generator/
+│
+├── index.html        # Main HTML page
+├── style.css         # CSS styling
+├── script.js         # JavaScript logic
+└── README.md         # Project documentation
+```
+
+---
+
+## 🚀 Getting Started
+
+To run the project locally:
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/qr-code-generator.git
+   ```
+2. **Navigate to the project folder**
+   ```bash
+   cd qr-code-generator
+   ```
+3. **Open `index.html` in your browser**
+
+   No build tools or installations are required — it runs entirely in the browser.
+
+---
+
+## 🧠 What I Learned
+
+- DOM manipulation and event listeners in JavaScript  
+- Integrating third-party APIs into front-end projects  
+- Responsive web design using CSS Flexbox  
+- Clean UI/UX practices  
+
+---
+
+## 🖼️ Screenshot
+
+> *(Add a screenshot of the project here for a better impression)*  
+> Example:  
+> ![QR Code Generator UI](screenshot.png)
+
+---
+
+## 💼 Use Case for Interview
+
+This project is ideal for showcasing:  
+- Your understanding of vanilla JavaScript (no libraries or frameworks)  
+- Real-world API integration  
+- Ability to build usable, visually clean tools  
+- Good code structure and user-focused design
+
+---
+
+## 🧾 License
+
+This project is open-source and available for personal or educational use.
+
+---
+
+## 🙌 Credits
+
+- **Designed and Developed by [Your Name]**  
+- Based on tutorial inspiration from [CodingNepal](https://www.youtube.com/codingnepal)
