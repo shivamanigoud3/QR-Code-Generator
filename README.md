@@ -72,9 +72,6 @@ To run the project locally:
 ---
 
 ## 🖼️ Screenshot
-
-> *(Add a screenshot of the project here for a better impression)*  
-> Example:  
 > ![QR Code Generator UI](SCREENSHOT.png)
 
 ---
