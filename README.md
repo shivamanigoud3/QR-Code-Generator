@@ -79,23 +79,3 @@ To run the project locally:
 
 ---
 
-## 💼 Use Case for Interview
-
-This project is ideal for showcasing:  
-- Your understanding of vanilla JavaScript (no libraries or frameworks)  
-- Real-world API integration  
-- Ability to build usable, visually clean tools  
-- Good code structure and user-focused design
-
----
-
-## 🧾 License
-
-This project is open-source and available for personal or educational use.
-
----
-
-## 🙌 Credits
-
-- **Designed and Developed by [Your Name]**  
-- Based on tutorial inspiration from [CodingNepal](https://www.youtube.com/codingnepal)
